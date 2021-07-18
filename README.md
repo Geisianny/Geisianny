@@ -9,8 +9,8 @@
 </div>
  <br>
 <div  align="center"> 
-  <a href="https://www.instagram.com/gee1sy/" target="_blank"><img src="https://img.shields.io/badge/-Youtube-%23EA4335?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://twitter.com/Geeiiisyyy"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href="https://twitter.com/Geeiiisyyy" target="_blank"><img src="http://s2.glbimg.com/MFUjAUG_nOFLIcRvRJvfAmyRwmE=/56x54:1500x792/695x355/s.glbimg.com/po/tt2/f/original/2016/01/19/capa-twitter-1.png"></a>
+  <a href="https://www.instagram.com/gee1sy/"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geisianny-bernardo-37b8961a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
   ![Snake animation](https://github.com/geisianny/geisianny/blob/output/github-contribution-grid-snake.svg)
