@@ -7,10 +7,9 @@
     
   <img align="center" width="148" height="180" src="https://media.tenor.com/images/3d1687a5acf054d430c09abe823d0737/tenor.gif">
 </div>
+<br>
 
-##
-
-<div align="center"><br>
+<div align="center">
   <a href="https://www.instagram.com/gee1sy/"_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geisianny-bernardo-37b8961a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
