@@ -1,4 +1,5 @@
 ## Olá, eu sou a Geisianny! 
+>
 
 <div align="center">
   <a href="https://github.com/Geisianny">
@@ -13,8 +14,9 @@
   <img align="center" alt="Geisianny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geisianny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geisianny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="right" alt="Geisianny-pic" height="150" style="border-radius:50px;"              
+  <img align="right" alt="Geisianny-yoda" height="150" style="border-radius:50px;"              
        src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif">
+  
 </div>
   
   ##
@@ -25,8 +27,12 @@
 </a> 
   <a href = "mailto:geisiannybernardo@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/geisianny-bernardo-37b8961a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+   
   
-   ![Snake animation](https://github.com/Geisianny/Geisianny/blob/output/github-contribution-grid-snake.svg)
+   ![Snake animation](https://github.com/Geisianny/Geisianny/blob/output/github-contribution-grid-snake.svg) 
+  <img align="center" alt="Geisianny-icon" height="75" style="border-radius:50x;"              
+       src="https://i.imgur.com/tGmkezJ.png">
+ 
  
 </div>
   
