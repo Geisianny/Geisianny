@@ -30,10 +30,10 @@
    
   
    ![Snake animation](https://github.com/Geisianny/Geisianny/blob/output/github-contribution-grid-snake.svg) 
-  <img align="center" alt="Geisianny-icon" height="50" style="border-radius:50x;"              
-       src="https://i.imgur.com/tGmkezJ.png">
  
  
+ 
+  
 </div>
   
   
