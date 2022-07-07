@@ -14,6 +14,8 @@
   <img align="center" alt="Geisianny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Geisianny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geisianny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="Geisianny-Ruby" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor.svg">
+  
   <img align="right" alt="Geisianny-yoda" height="150" style="border-radius:50px;"              
        src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif">
   
