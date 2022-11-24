@@ -16,8 +16,9 @@
   <img align="center" alt="Geisianny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Geisianny-Ruby" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor.svg">
   
-  <img align="right" alt="Geisianny-yoda" height="150" style="border-radius:50px;"              
+ <!-- <img align="right" alt="Geisianny-yoda" height="150" style="border-radius:50px;"              
        src="https://c.tenor.com/TdXGUNE47FgAAAAi/mandalorian-baby-yoda.gif">
+--> 
   
 </div>
   
