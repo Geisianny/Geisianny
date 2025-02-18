@@ -15,7 +15,11 @@
   <img align="center" alt="Geisianny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="Geisianny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Geisianny-Ruby" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor.svg">
-
+  <img align="center" alt="Geisianny-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor.svg">
+  <img align="center" alt="Geisianny-postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor.svg">
+  <img align="center" alt="Geisianny-react" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor.svg">
+  <img align="center" alt="Geisianny-rails" height="30" width="40" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor.svg">
+   <img align="center" alt="Geisianny-typescript" height="30" width="40" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor.svg">
   
 </div>
   
