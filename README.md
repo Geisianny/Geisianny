@@ -1,46 +1,125 @@
-## Olá, eu sou a Geisianny! 
->
+# 🦇 Geisianny Bernardo — Desenvolvedora Full Stack
 
 <div align="center">
-  <a href="https://github.com/Geisianny">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Geisianny&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Geisianny&layout=compact&langs_count=7&theme=radical"/>
+
+![Covil](https://img.shields.io/badge/Covil_Tecnológico-Ativo-8B0000?style=for-the-badge)
+![FullStack](https://img.shields.io/badge/Full_Stack-Developer-0d1117?style=for-the-badge&logo=code)
+![Backend](https://img.shields.io/badge/Foco-Fullstack-8B0000?style=for-the-badge)
+![Cloud](https://img.shields.io/badge/Cloud-AWS-232F3E?style=for-the-badge&logo=amazonaws)
+![Testes](https://img.shields.io/badge/Testes-Software-8B0000?style=for-the-badge)
+![IA](https://img.shields.io/badge/IA-Chatbots_&_LLMs-412991?style=for-the-badge&logo=openai)
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=8B0000&center=true&vCenter=true&width=800&lines=Código+que+enxerga+no+escuro;Full+Stack+com+backend+forte;Cloud%2C+IA+e+arquitetura+de+software" />
+
 </div>
-  
-<div style="display: inline_block"><br>
-  <img align="center" alt="Geisianny-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Geisianny-C" height="30" width="40" src="https://icongr.am/devicon/c-original.svg?size=128&color=8b0000">
-  <img align="center" alt="Geisianny-Java" height="30" width="40" src="https://icongr.am/devicon/java-original.svg?size=128&color=currentColor">
-  <img align="center" alt="Geisianny-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Geisianny-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Geisianny-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Geisianny-Ruby" height="30" width="40" src="https://icongr.am/devicon/ruby-original.svg?size=128&color=currentColor.svg">
-  <img align="center" alt="Geisianny-Docker" height="30" width="40" src="https://icongr.am/devicon/docker-original.svg?size=128&color=currentColor.svg">
-  <img align="center" alt="Geisianny-postgres" height="30" width="40" src="https://icongr.am/devicon/postgresql-original-wordmark.svg?size=128&color=currentColor.svg">
-  <img align="center" alt="Geisianny-react" height="30" width="40" src="https://icongr.am/devicon/react-original.svg?size=128&color=currentColor.svg">
-  <img align="center" alt="Geisianny-rails" height="30" width="40" src="https://icongr.am/devicon/rails-original-wordmark.svg?size=128&color=currentColor.svg">
-   <img align="center" alt="Geisianny-typescript" height="30" width="40" src="https://icongr.am/devicon/typescript-plain.svg?size=128&color=currentColor.svg">
-  
+
+---
+
+## 🦇 Sobre o Covil
+
+Desenvolvedora **Full Stack**, estudante de **Ciência da Computação**, com atuação prática em **APIs, aplicações web, cloud e LLMS**.  
+Trabalho com código limpo, soluções escaláveis e integração entre sistemas — mesmo quando o problema está “na escuridão”.
+
+🩸 **Perfil generalista**, com **backend e Frontend** como especialidade.
+
+---
+
+## 🛠️ Arsenal Tecnológico
+
+### 🩸 Backend
+- Node.js · Java · Ruby · Python  
+- APIs REST · Integração de sistemas  
+- Autenticação · Validações · Arquitetura backend  
+
+### 🌒 Frontend
+- React · TypeScript · JavaScript  
+- HTML5 · CSS3 · Componentização  
+- Styled-components · CSS Modules  
+- Consumo de APIs REST  
+- Gerenciamento de estado  
+- Formulários complexos e validações  
+- Responsividade e layouts modernos  
+- Integração frontend ↔ backend  
+- Boas práticas de UX e organização de componentes
+
+### 🧪 Testes, Qualidade & Pesquisa
+- Pesquisadora em testes de software  
+- Estudos em qualidade, confiabilidade e manutenibilidade  
+- Testes unitários, integração e E2E  
+- Jest · React Testing Library  
+- Testes de APIs REST  
+- Validação de regras de negócio  
+- Escrita de código testável e sustentável
+
+### ☁️ Cloud & DevOps
+- AWS (EC2, ECS, EKS, S3, DynamoDB)  
+- Docker · Kubernetes  
+- Terraform · Infrastructure as Code  
+
+### 🧠 IA & Automação
+- Integração com OpenAI API  
+- Desenvolvimento de chatbots conversacionais  
+- Uso de LLMs para automação de fluxos e atendimento  
+- Criação de assistentes virtuais (web e mensageria)  
+- Processamento e estruturação de dados para IA  
+- Integração de IA com sistemas backend  
+- Aplicação prática de IA em produtos reais
+
+### 🗄️ Bancos de Dados
+- PostgreSQL · MongoDB · MySQL  
+- Redis · DynamoDB 
+- SQL & NoSQL  
+
+### 🦴 Boas Práticas
+- Git & GitHub (versionamento e code review)  
+- Clean Code e organização de projetos  
+- Testes automatizados e qualidade de software  
+- Arquitetura de software e separação de responsabilidades  
+- Metodologias Ágeis: Scrum · Kanban  
+- Documentação clara e manutenção contínua
+
+---
+
+## 🕯️ O que eu construo no covil
+
+- APIs REST escaláveis com regras de negócio bem definidas  
+- Sistemas web completos (frontend + backend) com integração eficiente  
+- Aplicações em nuvem com foco em performance e confiabilidade  
+- Chatbots inteligentes integrados a sistemas reais  
+- Integrações entre serviços e plataformas  
+- Soluções desenvolvidas com foco em testes, qualidade e manutenibilidade
+
+
+---
+
+## 📜 Código do Covil
+
+```ts
+class MorcegoFullStack {
+  stack = ['Node.js', 'React', 'AWS', 'JAVA', 'LLM', 'QA'];
+  visao = 'Resolver problemas mesmo no escuro';
+
+  atacar(desafio: string) {
+    analisar();
+    arquitetar();
+    implementar();
+    testar();
+    evoluir();
+  }
+}
+```
+
+## 🏮 Atividade no Covil
+
+<div align="center">
+
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Geisianny&bg_color=0d1117&color=8b0000&line=8b0000&point=ffffff&area=true&hide_border=true&custom_title=Atividade%20Noturna%20no%20GitHub)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 </div>
+
+## 🦇 Contato
   
-
-  
-
- 
-</a> 
-
-<br>
-<br>
-
-
- [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Geisianny&bg_color=1f0c2d&color=922c93&line=15071a&point=4b204bc&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph) 
-  
- <div align="center">   
   <a href="https://www.linkedin.com/in/geisianny-bernardo-37b8961a4/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div> 
 
- 
-  
 
-  
-  
